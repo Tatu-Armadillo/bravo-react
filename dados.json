@@ -1,0 +1,413 @@
+{
+    "categorias": [
+        {
+            "label": "  BURGER'S",
+            "produtos": [
+                {
+                    "referencia": "4",
+                    "nome": "FOME TIPO-G",
+                    "preco": 0,
+                    "complementar": false,
+                    "descricao": "Pão Australiano, 2 hambúrgueres de 180g, queijo, salada e molho mb",
+                    "urlImagem": "https://i.imgur.com/SSanzqx.png",
+                    "tamanhos": [
+                        {
+                            "referencia": "1",
+                            "nome": "BURGER",
+                            "preco": 34.99,
+                            "maxCombinacao": 1,
+                            "categoriasComplementar": [
+                                {
+                                    "id": 1,
+                                    "family": "1",
+                                    "name": "TURBINE SEU BURGER",
+                                    "min": 0,
+                                    "max": 0,
+                                    "maxFree": 0,
+                                    "tipo": "ADD",
+                                    "complementares": [
+                                        {
+                                            "referencia": "1002",
+                                            "tamanho": null,
+                                            "preco": 5,
+                                            "nome": "BACON -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1003",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CEBOLA CARAMELIZADA -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1001",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CREAM CHEESE -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1000",
+                                            "tamanho": null,
+                                            "preco": 8,
+                                            "nome": "HAMBURGUER 180G -",
+                                            "quantidade": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "referencia": "1",
+                    "nome": "MAGIC BURGER",
+                    "preco": 0,
+                    "complementar": false,
+                    "descricao": "Pão de hambúrguer com gergelim, hambúrguer 180g, queijo, salada, picles e cebola caramelizada",
+                    "urlImagem": "https://i.imgur.com/m53Cky3.png",
+                    "tamanhos": [
+                        {
+                            "referencia": "1",
+                            "nome": "BURGER",
+                            "preco": 24.99,
+                            "maxCombinacao": 1,
+                            "categoriasComplementar": [
+                                {
+                                    "id": 1,
+                                    "family": "1",
+                                    "name": "TURBINE SEU BURGER",
+                                    "min": 0,
+                                    "max": 0,
+                                    "maxFree": 0,
+                                    "tipo": "ADD",
+                                    "complementares": [
+                                        {
+                                            "referencia": "1002",
+                                            "tamanho": null,
+                                            "preco": 5,
+                                            "nome": "BACON -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1003",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CEBOLA CARAMELIZADA -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1001",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CREAM CHEESE -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1000",
+                                            "tamanho": null,
+                                            "preco": 8,
+                                            "nome": "HAMBURGUER 180G -",
+                                            "quantidade": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "referencia": "3",
+                    "nome": "MB O BURGER",
+                    "preco": 0,
+                    "complementar": false,
+                    "descricao": "Pão de hambúrguer com gergelim, hambúrguer 180g, queijo, bacon, salada e molho mb",
+                    "urlImagem": "https://i.imgur.com/hMCyF8A.png",
+                    "tamanhos": [
+                        {
+                            "referencia": "1",
+                            "nome": "BURGER",
+                            "preco": 24.99,
+                            "maxCombinacao": 1,
+                            "categoriasComplementar": [
+                                {
+                                    "id": 1,
+                                    "family": "1",
+                                    "name": "TURBINE SEU BURGER",
+                                    "min": 0,
+                                    "max": 0,
+                                    "maxFree": 0,
+                                    "tipo": "ADD",
+                                    "complementares": [
+                                        {
+                                            "referencia": "1002",
+                                            "tamanho": null,
+                                            "preco": 5,
+                                            "nome": "BACON -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1003",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CEBOLA CARAMELIZADA -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1001",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CREAM CHEESE -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1000",
+                                            "tamanho": null,
+                                            "preco": 8,
+                                            "nome": "HAMBURGUER 180G -",
+                                            "quantidade": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "referencia": "6",
+                    "nome": "MB O JUNIOR",
+                    "preco": 0,
+                    "complementar": false,
+                    "descricao": "Pão brioche, hambúrguer 90g, queijo, salada e molho mb",
+                    "urlImagem": "https://i.imgur.com/3U7HzPL.png",
+                    "tamanhos": [
+                        {
+                            "referencia": "1",
+                            "nome": "BURGER",
+                            "preco": 19.9,
+                            "maxCombinacao": 1,
+                            "categoriasComplementar": [
+                                {
+                                    "id": 1,
+                                    "family": "1",
+                                    "name": "TURBINE SEU BURGER",
+                                    "min": 0,
+                                    "max": 0,
+                                    "maxFree": 0,
+                                    "tipo": "ADD",
+                                    "complementares": [
+                                        {
+                                            "referencia": "1002",
+                                            "tamanho": null,
+                                            "preco": 5,
+                                            "nome": "BACON -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1003",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CEBOLA CARAMELIZADA -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1001",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CREAM CHEESE -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1000",
+                                            "tamanho": null,
+                                            "preco": 8,
+                                            "nome": "HAMBURGUER 180G -",
+                                            "quantidade": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "referencia": "5",
+                    "nome": "SMASHNOLO",
+                    "preco": 0,
+                    "complementar": false,
+                    "descricao": "Pão brioche, 2 hambúrgueres de 90g, queijo, bacon e molho mb",
+                    "urlImagem": "https://i.imgur.com/9mGQjdL.png",
+                    "tamanhos": [
+                        {
+                            "referencia": "1",
+                            "nome": "BURGER",
+                            "preco": 28.99,
+                            "maxCombinacao": 1,
+                            "categoriasComplementar": [
+                                {
+                                    "id": 1,
+                                    "family": "1",
+                                    "name": "TURBINE SEU BURGER",
+                                    "min": 0,
+                                    "max": 0,
+                                    "maxFree": 0,
+                                    "tipo": "ADD",
+                                    "complementares": [
+                                        {
+                                            "referencia": "1002",
+                                            "tamanho": null,
+                                            "preco": 5,
+                                            "nome": "BACON -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1003",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CEBOLA CARAMELIZADA -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1001",
+                                            "tamanho": null,
+                                            "preco": 3,
+                                            "nome": "CREAM CHEESE -",
+                                            "quantidade": null
+                                        },
+                                        {
+                                            "referencia": "1000",
+                                            "tamanho": null,
+                                            "preco": 8,
+                                            "nome": "HAMBURGUER 180G -",
+                                            "quantidade": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "  COMBOS MB",
+            "produtos": [
+                {
+                    "referencia": "52",
+                    "nome": "COMBO CASAL",
+                    "preco": 59.97,
+                    "complementar": false,
+                    "descricao": "1 Mb o Burger + 1 Magic Burger + 1 Batata Mb + Refri 1,5l",
+                    "urlImagem": "https://i.imgur.com/2bMmv1I.png",
+                    "tamanhos": []
+                },
+                {
+                    "referencia": "51",
+                    "nome": "COMBO JUNIOR",
+                    "preco": 23.99,
+                    "complementar": false,
+                    "descricao": "1 Mb o Junior + 1 Batata Mb",
+                    "urlImagem": "https://i.imgur.com/Qs01bKl.png",
+                    "tamanhos": []
+                },
+                {
+                    "referencia": "50",
+                    "nome": "COMBO MAGICO",
+                    "preco": 34.9,
+                    "complementar": false,
+                    "descricao": "1 Magic Burger + 1 Batata Mb + Refri lata 310ml",
+                    "urlImagem": "https://i.imgur.com/j2ZxVf3.png",
+                    "tamanhos": []
+                }
+            ]
+        },
+        {
+            "label": "  FRITAS MB",
+            "produtos": [
+                {
+                    "referencia": "11",
+                    "nome": "MB - CHICKEN",
+                    "preco": 9.99,
+                    "complementar": false,
+                    "descricao": "Contém 5 unidades de Nuggets de frango.",
+                    "urlImagem": "https://i.imgur.com/D0FQblq.png",
+                    "tamanhos": []
+                },
+                {
+                    "referencia": "10",
+                    "nome": "MB - FRITAS",
+                    "preco": 7.99,
+                    "complementar": false,
+                    "descricao": "Á melhor batata palito frita",
+                    "urlImagem": "https://i.imgur.com/yGtiwDP.png",
+                    "tamanhos": []
+                }
+            ]
+        },
+        {
+            "label": " BEBIDAS",
+            "produtos": [
+                {
+                    "referencia": "2003",
+                    "nome": "COCA COLA 1,5",
+                    "preco": 10,
+                    "complementar": false,
+                    "descricao": "Não basta ser coca, tem que estar gelada!",
+                    "urlImagem": "https://i.imgur.com/5EAAyev.png",
+                    "tamanhos": []
+                },
+                {
+                    "referencia": "2000",
+                    "nome": "COCA COLA 310ML",
+                    "preco": 4.99,
+                    "complementar": false,
+                    "descricao": "Não basta ser coca, tem que estar gelada!",
+                    "urlImagem": "https://i.imgur.com/EvDhaMv.png",
+                    "tamanhos": []
+                },
+                {
+                    "referencia": "2004",
+                    "nome": "FANTA 1,5",
+                    "preco": 10,
+                    "complementar": false,
+                    "descricao": "Com sabor irresistível e único, de laranja.",
+                    "urlImagem": "https://i.imgur.com/AtSAork.png",
+                    "tamanhos": []
+                },
+                {
+                    "referencia": "2001",
+                    "nome": "FANTA 310ML",
+                    "preco": 4.99,
+                    "complementar": false,
+                    "descricao": "Com sabor irresistível e único, de laranja.",
+                    "urlImagem": "https://i.imgur.com/SKgONaU.png",
+                    "tamanhos": []
+                },
+                {
+                    "referencia": "2002",
+                    "nome": "GUARANÁ ANTARCTICA 350ML",
+                    "preco": 4.99,
+                    "complementar": false,
+                    "descricao": "Brasileiro com sabor único e natural",
+                    "urlImagem": "https://i.imgur.com/OofLKtA.png",
+                    "tamanhos": []
+                }
+            ]
+        },
+        {
+            "label": "SOBREMESAS",
+            "produtos": [
+                {
+                    "referencia": "20",
+                    "nome": "SOBREMESA MB",
+                    "preco": 12,
+                    "complementar": false,
+                    "descricao": "",
+                    "urlImagem": "https://i.ytimg.com/vi/9_9YCWc8OEI/maxresdefault.jpg",
+                    "tamanhos": []
+                }
+            ]
+        }
+    ]
+}
