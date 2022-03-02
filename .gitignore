@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+bravo-delivery/node_modules
+bravo-delivery/.pnp
+bravo-delivery/.pnp.js
+
+# testing
+bravo-delivery/coverage
+
+# production
+bravo-delivery/build
+
+# misc
+bravo-delivery/.DS_Store
+bravo-delivery/.env.local
+bravo-delivery/.env.development.local
+bravo-delivery/.env.test.local
+bravo-delivery/.env.production.local
+
+bravo-delivery/npm-debug.log*
+bravo-delivery/yarn-debug.log*
+bravo-delivery/yarn-error.log*
