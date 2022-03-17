@@ -1,7 +1,11 @@
-export interface IProduto {
+export interface IProduto   {
     reference: string;
     name: string;
     price: number;
     description: string;
     urlImagem: string;
+}
+
+export interface IProdutos {
+    produtos: IProduto[];
 }
