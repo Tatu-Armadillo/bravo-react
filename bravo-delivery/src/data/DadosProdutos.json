@@ -1,0 +1,39 @@
+{
+    "produtos": [
+        {
+            "reference": "4",
+            "name": "FOME TIPO-G",
+            "price": 34.99,
+            "description": "Pão Australiano, 2 hambúrgueres de 180g, queijo, salada e molho mb",
+            "urlImagem": "https://i.imgur.com/SSanzqx.png"
+        },
+        {
+            "reference": "1",
+            "name": "MAGIC BURGER",
+            "price": 24.99,
+            "description": "Pão de hambúrguer com gergelim, hambúrguer 180g, queijo, salada, picles e cebola caramelizada",
+            "urlImagem": "https://i.imgur.com/m53Cky3.png"
+        },
+        {
+            "reference": "3",
+            "name": "MB O BURGER",
+            "price": 24.99,
+            "description": "Pão de hambúrguer com gergelim, hambúrguer 180g, queijo, bacon, salada e molho mb",
+            "urlImagem": "https://i.imgur.com/hMCyF8A.png"
+        },
+        {
+            "reference": "6",
+            "name": "MB O JUNIOR",
+            "price": 19.9,
+            "description": "Pão brioche, hambúrguer 90g, queijo, salada e molho mb",
+            "urlImagem": "https://i.imgur.com/3U7HzPL.png"
+        },
+        {
+            "reference": "5",
+            "name": "SMASHNOLO",
+            "price": 28.99,
+            "description": "Pão brioche, 2 hambúrgueres de 90g, queijo, bacon e molho mb",
+            "urlImagem": "https://i.imgur.com/9mGQjdL.png"
+        }
+    ]
+}
