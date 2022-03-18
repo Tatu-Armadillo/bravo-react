@@ -1,0 +1,141 @@
+{
+    "categorias": [
+        {
+            "label": "  BURGER'S",
+            "produtos": [
+                {
+                    "reference": "4",
+                    "name": "FOME TIPO-G",
+                    "price": 34.99,
+                    "description": "Pão Australiano, 2 hambúrgueres de 180g, queijo, salada e molho mb",
+                    "urlImagem": "https://i.imgur.com/SSanzqx.png"
+                },
+                {
+                    "reference": "1",
+                    "name": "MAGIC BURGER",
+                    "price": 24.99,
+                    "description": "Pão de hambúrguer com gergelim, hambúrguer 180g, queijo, salada, picles e cebola caramelizada",
+                    "urlImagem": "https://i.imgur.com/m53Cky3.png"
+                },
+                {
+                    "reference": "3",
+                    "name": "MB O BURGER",
+                    "price": 24.99,
+                    "description": "Pão de hambúrguer com gergelim, hambúrguer 180g, queijo, bacon, salada e molho mb",
+                    "urlImagem": "https://i.imgur.com/hMCyF8A.png"
+                },
+                {
+                    "reference": "6",
+                    "name": "MB O JUNIOR",
+                    "price": 19.9,
+                    "description": "Pão brioche, hambúrguer 90g, queijo, salada e molho mb",
+                    "urlImagem": "https://i.imgur.com/3U7HzPL.png"
+                },
+                {
+                    "reference": "5",
+                    "name": "SMASHNOLO",
+                    "price": 28.99,
+                    "description": "Pão brioche, 2 hambúrgueres de 90g, queijo, bacon e molho mb",
+                    "urlImagem": "https://i.imgur.com/9mGQjdL.png"
+                }
+            ]
+        },
+        {
+            "label": "  COMBOS MB",
+            "produtos": [
+                {
+                    "reference": "52",
+                    "name": "COMBO CASAL",
+                    "price": 59.97,
+                    "description": "1 Mb o Burger + 1 Magic Burger + 1 Batata Mb + Refri 1,5l",
+                    "urlImagem": "https://i.imgur.com/2bMmv1I.png"
+                },
+                {
+                    "reference": "51",
+                    "name": "COMBO JUNIOR",
+                    "price": 23.99,
+                    "description": "1 Mb o Junior + 1 Batata Mb",
+                    "urlImagem": "https://i.imgur.com/Qs01bKl.png"
+                },
+                {
+                    "reference": "50",
+                    "name": "COMBO MAGICO",
+                    "price": 34.9,
+                    "description": "1 Magic Burger + 1 Batata Mb + Refri lata 310ml",
+                    "urlImagem": "https://i.imgur.com/j2ZxVf3.png"
+                }
+            ]
+        },
+        {
+            "label": "  FRITAS MB",
+            "produtos": [
+                {
+                    "reference": "11",
+                    "name": "MB - CHICKEN",
+                    "price": 9.99,
+                    "description": "Contém 5 unidades de Nuggets de frango.",
+                    "urlImagem": "https://i.imgur.com/D0FQblq.png"
+                },
+                {
+                    "reference": "10",
+                    "name": "MB - FRITAS",
+                    "price": 7.99,
+                    "description": "Á melhor batata palito frita",
+                    "urlImagem": "https://i.imgur.com/yGtiwDP.png"
+                }
+            ]
+        },
+        {
+            "label": " BEBIDAS",
+            "produtos": [
+                {
+                    "reference": "2003",
+                    "name": "COCA COLA 1,5",
+                    "price": 10,
+                    "description": "Não basta ser coca, tem que estar gelada!",
+                    "urlImagem": "https://i.imgur.com/5EAAyev.png"
+                },
+                {
+                    "reference": "2000",
+                    "name": "COCA COLA 310ML",
+                    "price": 4.99,
+                    "description": "Não basta ser coca, tem que estar gelada!",
+                    "urlImagem": "https://i.imgur.com/EvDhaMv.png"
+                },
+                {
+                    "reference": "2004",
+                    "name": "FANTA 1,5",
+                    "price": 10,
+                    "description": "Com sabor irresistível e único, de laranja.",
+                    "urlImagem": "https://i.imgur.com/AtSAork.png"
+                },
+                {
+                    "reference": "2001",
+                    "name": "FANTA 310ML",
+                    "price": 4.99,
+                    "description": "Com sabor irresistível e único, de laranja.",
+                    "urlImagem": "https://i.imgur.com/SKgONaU.png"
+                },
+                {
+                    "reference": "2002",
+                    "name": "GUARANÁ ANTARCTICA 350ML",
+                    "price": 4.99,
+                    "description": "Brasileiro com sabor único e natural",
+                    "urlImagem": "https://i.imgur.com/OofLKtA.png"
+                }
+            ]
+        },
+        {
+            "label": "SOBREMESAS",
+            "produtos": [
+                {
+                    "reference": "20",
+                    "name": "SOBREMESA MB",
+                    "price": 12,
+                    "description": "",
+                    "urlImagem": "https://i.ytimg.com/vi/9_9YCWc8OEI/maxresdefault.jpg"
+                }
+            ]
+        }
+    ]
+}

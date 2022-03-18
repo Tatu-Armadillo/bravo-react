@@ -1,4 +1,4 @@
-import { IProduto, IProdutos } from '../../models/Produto';
+import { IProduto, IProdutos } from '../../models/Interfaces';
 
 const Produto = ({ description, name, price, reference, urlImagem }: IProduto) => {
     return (

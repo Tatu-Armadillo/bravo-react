@@ -9,3 +9,8 @@ export interface IProduto   {
 export interface IProdutos {
     produtos: IProduto[];
 }
+
+export interface ICategoria {
+    label: string;
+    produtos: IProdutos[];
+}
