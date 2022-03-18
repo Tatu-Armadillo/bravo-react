@@ -5,12 +5,12 @@ import json from './data/DadosCategoria.json'
 import { ICategoria } from './models/Interfaces';
 
 function App() {
-  const list: ICategoria[] = json.categorias;
+  const listCategorias: ICategoria[] = json.categorias;
 
   return (
     <div className='font-mono'>
       <Navbar />
-      <Categorias produtos={list} />
+      <Categorias categorias={listCategorias} />
     </div>
   );
 }
